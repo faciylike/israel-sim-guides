@@ -63,3 +63,10 @@ layout: default
 
 　　希望这份指南能帮你扫清障碍，让网络连接不再是旅途中需要操心的事，你可以更专注于感受以色列厚重的历史、灿烂的阳光和地中海的微风。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Israel eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/israel-data-plans)
